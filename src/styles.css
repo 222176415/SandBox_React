@@ -1,0 +1,35 @@
+.App {
+  background-color: antiquewhite;
+}
+.card {
+  margin-top: 50px;
+  padding: 10px;
+  text-align: center;
+  border-color: black;
+  border-style: groove;
+  width: 18rem;
+  margin-left: 10px;
+}
+.Header {
+  background-color: blueviolet;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.footer {
+  background-color: blueviolet;
+  margin-bottom: 50px;
+}
+
+.card-img-top {
+  width: 235px;
+  height: auto;
+}
+.card-body {
+  padding: 5px 5px 5px 5px;
+  text-align: left;
+}
+.List .btn {
+  margin-left: 5px;
+  border-radius: 10px;
+  border: 1em;
+}
