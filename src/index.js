@@ -13,6 +13,7 @@ root.render(
   <StrictMode>
     <Header Username="Themba Ntimane" />
     <Body title="Themba Ntimane" />
+    <App />
     <footer />
   </StrictMode>
 );
