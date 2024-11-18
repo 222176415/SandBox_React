@@ -12,12 +12,18 @@
 }
 .countercard {
   display: flex;
-  padding: 200px;
+  padding: 10px 10px;
   text-align: center;
   border-color: black;
   border-style: groove;
   width: 18rem;
-  margin-left: 10px;
+  margin: 10px 10px;
+  border-radius: 10px;
+}
+.btn {
+  border-color: black;
+  margin-left: 5px;
+  margin-right: 1px;
 }
 .Header {
   background-color: blueviolet;
