@@ -10,6 +10,15 @@
   width: 18rem;
   margin-left: 10px;
 }
+.countercard {
+  display: flex;
+  padding: 200px;
+  text-align: center;
+  border-color: black;
+  border-style: groove;
+  width: 18rem;
+  margin-left: 10px;
+}
 .Header {
   background-color: blueviolet;
   text-align: center;
